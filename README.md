@@ -5,21 +5,34 @@
 ## 📊 Lenguajes Más Usados
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aberistaina&layout=compact&theme=radical)
 
+## 🧑‍💻 Lenguajes que manejo
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233B8EBB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300B5E2?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 ## 🛠 Tecnologías que manejo
 
-- **Lenguajes**: JavaScript, HTML, CSS, SQL, PHP, Python
-- **Frameworks**: React, Next.js, Express, Vue.js
-- **Bases de Datos**: PostgreSQL, MySQL
-- **Herramientas**: Git, Docker, Nginx
+- **Frameworks**: React, Next.js, Express, Vue.js, Angular, Django, Tailwind Css
+- **Bases de Datos**: PostgreSQL, MySQL, MongoDB
+- **Herramientas**: Git, Docker
 
 ## 📈 Estadísticas de GitHub
 
-¡Aquí tienes un vistazo a mi actividad en GitHub!
+## 🟢 Contribuciones de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=aberistaina&show_icons=true&theme=radical)
+![Actividad de GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=aberistaina&theme=github)
+
+## 📊 Estadísticas de mi perfil
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=aberistaina&show_icons=true&hide=prs&count_private=true&theme=radical)
 
 ## 📞 Contáctame
 
-- **Correo**: [tu.email@example.com](mailto:tu.email@example.com)
-- **LinkedIn**: [Mi perfil de LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- **Portafolio**: [mi-portafolio.com](https://mi-portafolio.com)
+- **Correo**: [alejandro_beristain@hotmail.com](mailto:alejandro_beristain@hotmail.com)
+- **LinkedIn**: [Mi perfil de LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/aberistaina/))
+- **Portafolio**: [mi-portafolio.com]([https://mi-portafolio.com](https://aberistain.cl/))
