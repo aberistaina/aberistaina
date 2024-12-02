@@ -29,5 +29,6 @@
 ## 📞 Contáctame
 
 - **Correo**: [alejandro_beristain@hotmail.com](mailto:alejandro_beristain@hotmail.com)
-- **LinkedIn**: [Mi perfil de LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/aberistaina/))
-- **Portafolio**: [mi-portafolio.com]([https://mi-portafolio.com](https://aberistain.cl/))
+- **LinkedIn**: [Mi perfil de LinkedIn](https://www.linkedin.com/in/aberistaina/)
+- **Portafolio**: [mi-portafolio.com](https://aberistain.cl/)
+
