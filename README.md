@@ -30,5 +30,5 @@
 
 - **Correo**: [alejandro_beristain@hotmail.com](mailto:alejandro_beristain@hotmail.com)
 - **LinkedIn**: [Mi perfil de LinkedIn](https://www.linkedin.com/in/aberistaina/)
-- **Portafolio**: [mi-portafolio.com](https://aberistain.cl/)
+- **Portafolio**: [aberistain.cl](https://aberistain.cl/)
 
