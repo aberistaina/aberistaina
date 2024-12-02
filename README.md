@@ -21,11 +21,6 @@
 - **Bases de Datos**: PostgreSQL, MySQL, MongoDB
 - **Herramientas**: Git, Docker
 
-## 📈 Estadísticas de GitHub
-
-## 🟢 Contribuciones de GitHub
-
-![Actividad de GitHub](https://github-readme-activity-graph.cyclic.app/graph?username=aberistaina&theme=github)
 
 ## 📊 Estadísticas de mi perfil
 
