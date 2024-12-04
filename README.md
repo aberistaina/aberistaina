@@ -1,6 +1,6 @@
 # Bienvenido a mi Perfil de GitHub 👋
 
-¡Hola! Soy **Alejandro Beristain**. Soy desarrollador full-stack con experiencia en tecnologías como **JavaScript**, **Node.js**, **React**, **CSS**, **HTML** y más. Estoy constantemente aprendiendo y buscando mejorar mis habilidades. En mi perfil de GitHub, encontrarás proyectos que muestran mi capacidad para crear aplicaciones web dinámicas, APIs y más.
+¡Hola! Soy **Alejandro Beristain**. Soy desarrollador full-stack con experiencia en tecnologías como **JavaScript**, **Node.js**, **React**, **Python**, **CSS**, **HTML** y más. Estoy constantemente aprendiendo y buscando mejorar mis habilidades. En mi perfil de GitHub, encontrarás proyectos que muestran mi capacidad para crear aplicaciones web dinámicas, APIs y más.
 
 ## 📊 Lenguajes Más Usados
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=aberistaina&layout=compact&theme=radical)
